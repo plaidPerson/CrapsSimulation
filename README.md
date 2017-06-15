@@ -1,3 +1,3 @@
 # CrapsSimulation
 
-This Heather's project is for SIES 635.
+This Heather M's project is for SIES 635.
